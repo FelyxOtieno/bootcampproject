@@ -1,2 +1,3 @@
 # bootcampproject
-repo for week1 bootcamp challenge
+Project files for Andela Bootcamp week 1 challenge
+
