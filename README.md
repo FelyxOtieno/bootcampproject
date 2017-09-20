@@ -1,3 +1,1 @@
-# bootcampproject
-Project files for Andela Bootcamp week 1 challenge
-
+[![Build Status](https://travis-ci.org/FelyxOtieno/newrepoforChallenge3.svg?branch=master)](https://travis-ci.org/FelyxOtieno/newrepoforChallenge3)
